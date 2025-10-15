@@ -1,0 +1,19 @@
+keykey - 基于 Qwerty Learner 开发的单词记忆与打字练习应用
+
+原项目：https://github.com/Kaiyiwing/qwerty-learner
+许可证：GNU GPL v3.0
+
+本项目在原项目基础上进行了增强和扩展，包括：
+- 跨设备云同步功能
+- 文章练习模式
+- 优化的用户界面和体验
+- 音标学习功能增强
+- 在线点读功能
+- 资源远程加载和缓存系统
+
+原项目版权归原作者所有。
+本项目遵循 GNU GPL v3.0 许可证。
+
+Copyright (C) 2025 keykey
+Based on Qwerty Learner by Kaiyiwing and contributors
+
